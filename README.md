@@ -33,3 +33,5 @@ LED背光要求的电压典型值是15V，而整体只有3.3V和5V，所以选�
 <p align = "center">
 <img src="https://github.com/Idowhat/img_video/blob/main/img_LCD/Pin_definition.jpg?raw=true"  />
 </p>
+
+# 此PCB经过验证
